@@ -1,9 +1,9 @@
-# SIM Card Management System (OOP)
+## SIM Card Management System (OOP)
 
 A C++ console application for managing SIM cards and their associated data
 
 
-# Features
+## Features
 
 - Create and manage multiple SIM cards
 - Balance management system
