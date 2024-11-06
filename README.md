@@ -1,6 +1,6 @@
 ## SIM Card Management System (OOP)
 
-A C++ console application for managing SIM cards and their associated data
+This console-based application, developed using Object-Oriented Programming (OOP) principles in C++, is designed to manage SIM cards and their associated data efficiently.
 
 
 ## Features
